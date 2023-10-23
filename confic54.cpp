@@ -6,6 +6,10 @@ cout << "Hello World from number 54" << endl;
 <<<<<<< HEAD
 =======
 cout << "Hello World from number 54" << endl;
+<<<<<<< HEAD
+>>>>>>> feature4-new
+=======
+cout << "Hello World from number 54" << endl;
 >>>>>>> feature4-new
 return 0;
 }
